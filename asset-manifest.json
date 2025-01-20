@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Insta-Video-Downloader/static/css/main.d80a324e.css",
-    "main.js": "/Insta-Video-Downloader/static/js/main.cca50648.js",
+    "main.css": "/Insta-Video-Downloader/static/css/main.69322541.css",
+    "main.js": "/Insta-Video-Downloader/static/js/main.7024e7dc.js",
     "static/media/BG.png": "/Insta-Video-Downloader/static/media/BG.a99b5c63d35853a3abb8.png",
     "index.html": "/Insta-Video-Downloader/index.html",
-    "main.d80a324e.css.map": "/Insta-Video-Downloader/static/css/main.d80a324e.css.map",
-    "main.cca50648.js.map": "/Insta-Video-Downloader/static/js/main.cca50648.js.map"
+    "main.69322541.css.map": "/Insta-Video-Downloader/static/css/main.69322541.css.map",
+    "main.7024e7dc.js.map": "/Insta-Video-Downloader/static/js/main.7024e7dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.d80a324e.css",
-    "static/js/main.cca50648.js"
+    "static/css/main.69322541.css",
+    "static/js/main.7024e7dc.js"
   ]
 }
